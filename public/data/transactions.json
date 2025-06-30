@@ -1,0 +1,15 @@
+[
+  { "id": 1, "customerId": "C001", "customerName": "Ayush", "date": "2025-03-01", "amount": 120 },
+  { "id": 2, "customerId": "C002", "customerName": "Kuldeep", "date": "2025-03-03", "amount": 80 },
+  { "id": 3, "customerId": "C003", "customerName": "Arpit", "date": "2025-03-05", "amount": 45 },
+  { "id": 4, "customerId": "C001", "customerName": "Ayush", "date": "2025-03-15", "amount": 200 },
+  { "id": 5, "customerId": "C002", "customerName": "Kuldeep", "date": "2025-04-05", "amount": 99 },
+  { "id": 6, "customerId": "C003", "customerName": "Arpit", "date": "2025-04-12", "amount": 60 },
+  { "id": 7, "customerId": "C004", "customerName": "Anshul", "date": "2025-04-15", "amount": 130 },
+  { "id": 8, "customerId": "C005", "customerName": "Samraat", "date": "2025-04-18", "amount": 70 },
+  { "id": 9, "customerId": "C002", "customerName": "Kuldeep", "date": "2025-04-20", "amount": 110 },
+  { "id": 10, "customerId": "C004", "customerName": "Anshul", "date": "2025-04-22", "amount": 180 },
+  { "id": 11, "customerId": "C001", "customerName": "Ayush", "date": "2025-05-01", "amount": 135 },
+  { "id": 12, "customerId": "C002", "customerName": "Kuldeep", "date": "2025-05-03", "amount": 75 },
+  { "id": 13, "customerId": "C005", "customerName": "Samraat", "date": "2025-05-05", "amount": 95 }
+]
